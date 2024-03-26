@@ -9,14 +9,14 @@ import * as $$$$$$1 from "./sections/Theme/Theme.tsx";
 
 const manifest = {
   "sections": {
-    "deco-sites/start/sections/ItWorks.tsx": $$$$$$0,
-    "deco-sites/start/sections/Theme/Theme.tsx": $$$$$$1,
+    "deco-sites/dryos/sections/ItWorks.tsx": $$$$$$0,
+    "deco-sites/dryos/sections/Theme/Theme.tsx": $$$$$$1,
   },
   "apps": {
-    "deco-sites/start/apps/decohub.ts": $$$$$$$$$$$0,
-    "deco-sites/start/apps/site.ts": $$$$$$$$$$$1,
+    "deco-sites/dryos/apps/decohub.ts": $$$$$$$$$$$0,
+    "deco-sites/dryos/apps/site.ts": $$$$$$$$$$$1,
   },
-  "name": "deco-sites/start",
+  "name": "deco-sites/dryos",
   "baseUrl": import.meta.url,
 };
 
